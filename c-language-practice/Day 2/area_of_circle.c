@@ -2,7 +2,7 @@
 
 int main() {
 
-    //find the area of circle 
+    //find the area of circle.
     float radius, area;
     printf("Enter radius of circle: ");
     scanf("%f", &radius);
